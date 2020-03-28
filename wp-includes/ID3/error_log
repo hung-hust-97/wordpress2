@@ -1,0 +1,2 @@
+[23-Mar-2020 11:45:01 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/agneonws/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[24-Mar-2020 03:51:58 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/agneonws/public_html/wp-includes/ID3/module.audio.ac3.php on line 18

@@ -1,0 +1,129 @@
+[26-Dec-2019 06:31:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agneonws/public_html/wp-includes/sodium_compat/lib/php72compat.php on line 1057
+[10-Jan-2020 07:35:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 07:35:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 07:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 07:37:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 07:44:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 07:44:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 07:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 07:47:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 07:48:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 07:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 08:02:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 08:14:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 08:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 08:15:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 08:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61
+[10-Jan-2020 08:17:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strpos() in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php:61
+Stack trace:
+#0 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php(29): WPML_ST_Translation_Memory_Records->also_match_alternative_line_breaks(Array)
+#1 /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory.php(38): WPML_ST_Translation_Memory_Records->get(Array)
+#2 /home/agneonws/public_html/wp-includes/class-wp-hook.php(288): WPML_ST_Translation_Memory->fetch_translations('')
+#3 /home/agneonws/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /home/agneonws/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/agneonws/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_wpml_st... in /home/agneonws/public_html/wp-content/plugins/wpml-string-translation/classes/translation-memory/class-wpml-st-translation-memory-records.php on line 61

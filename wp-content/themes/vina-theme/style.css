@@ -1,0 +1,298 @@
+/*
+Theme Name: VinaWebsite.VN
+Description: Templates develop by vinahost.vn
+Author: VINAHOST.VN
+Template: flatsome
+Support: website@vinahost.vn
+Version: 1.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+.cover{position:fixed;width:100%;height:100%;overflow:hidden}.cover-main{background:#0f0f0f;z-index:999999997}.cover-dark{background:#0f0f0f;z-index:999999995}.cover-red{background:#a41318;z-index:999999993}.cover-gold{background:#d4983b;z-index:999999991}
+	body, 
+.overlay_load{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.overlay_load {
+  z-index: 99999;
+  background-color: #3c3b3a;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.socialicons{
+	position: fixed;
+    bottom: 26px;
+    z-index: 9999999999999999999999999999;
+    left: 8px;
+    width: 40px;
+}
+.button.is-outline, input[type='submit'].is-outline, input[type='reset'].is-outline, input[type='button'].is-outline{
+	    border: 2px solid #6199cc!important;
+	    color: #6199cc;
+}
+@media only screen and (min-width: 1365px) and (max-width: 1368px) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+	.wap-sp .box-image .image-zoom {
+		padding-top: 113%!important;
+	}
+	.home #masthead{
+   		display: none;
+  	}
+
+	.fp-viewing-0 #masthead{
+	    display: block!important;
+  	}
+  	.news .news_left .tabbed-content a.button.primary.is-bevel.lowercase{
+  		margin-top: -26px;
+  	}
+  	#section6 .row-small>.col{
+  		padding: 0;
+  	}
+  	#section6 .col.medium-4.small-12.large-4{
+  		padding: 0;
+  	}
+  	.gap-footer{
+	    padding-top: 8px!important;
+  	}
+  	.gap-top-footer{
+  		padding-top: 30px!important;
+  	}
+  	.sec_seven{
+  		margin-bottom: 18px!important;
+  	}
+}
+@media only screen and (min-width: 1369px) {
+	.wap-sp .box-image .image-zoom {
+		padding-top: 98.5%!important;
+	}
+	.sec_seven {
+	    margin-bottom: 30px!important;
+	}
+	.gap-top-footer{
+	    padding-top: 87px!important;
+	}
+	.gap-footer{
+		    padding-top: 20px!important;
+	}
+	.row-footer iframe{
+		height: 380%;
+	}
+}
+@media only screen and (max-width: 1500px){
+	.home #masthead{
+   		display: none!important;
+  	}
+  	.fp-viewing-0 #masthead{
+	    display: block!important;
+  	}
+}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+	.sec_maps {
+		display: block!important;
+	}
+	.wap-sp .box-text{
+	    width: 100%!important;
+	}
+	.sec_kh h3 strong{
+	  font-size: 1em!important;
+	}
+	.wap-vct .is-divider.divider.clearfix{
+      padding: 0;
+	    margin: auto;
+	}
+	.wap-vct h3 span{
+	  font-size: 28px!important;
+	}
+
+	body:not(.real-mobile) .single-root.style-02 .pt-hs-roll-btn{
+		display: none!important;
+	}
+}
+.sec_mobi_sp{
+	width: 100%!important;
+}
+@media only screen and (min-width: 48em) {
+	div#section5 .col.col-right {
+	    padding-left: 30px;
+	}
+}
+.is-divider{
+	display: none;
+}
+@media only screen and (min-width: 48em) {
+
+	
+	.stuck .header-main .nav > li > a {
+	    line-height: unset !important;
+	}
+}
+
+.page-wrapper{
+	padding-top: 0;
+}
+.absolute-footer.dark.medium-text-center.small-text-center {
+    color: #fff;
+}
+/*menu foter*/
+.menu_footerr ul.menu>li+li {
+    border-top: unset;
+}
+.menu_footerr .menu li.menu-item {
+    display: inline-block;
+    padding: 0 15px;
+}
+.menu_footerr {
+	background: #1162ae;
+    padding: 10px 0;
+    text-align: center;
+}
+.menu_fot ul li a {
+    color: #fff;
+    text-transform: uppercase;
+}
+.menu_fot button.toggle {
+    display: none;
+}
+.menu_fot ul {
+    margin-bottom: 0;
+}
+span.section-title-main {
+    border-bottom: unset;
+}
+
+.section-title-normal {
+    border-bottom: unset;
+}
+
+.container.section-title-container {
+    margin-bottom: 5px;
+}
+
+@media only screen and (max-width: 850px) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+	div#section0,div#section1,div#section2,div#section3,div#section4,div#section5 {
+	    height: unset !important;
+	}
+	.section.fp-sectio .col{
+		margin-top: 15px;
+	}
+	div#section1,div#section5{
+		padding:10px;
+	}
+	div#section6 .row.row-small {
+	    margin-left: 15px;
+	}
+	ul#menu-menu-footer {
+	    text-align: left;
+	}
+}
+div#section6 .title_footer, div#section6 .lienhe_company.row_border_bot  {
+    font-size: 17px;
+    color: #000;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+ul.thongke1 li {
+    list-style: none;
+}
+div#section5 .row_border_bot {
+    color: #000;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+div#section5 .menu_footerr{
+	background: unset;
+}
+div#section5 .menu_fot ul li a{
+	color: #000;
+}
+div#section2 .col-inner.text-center p , div#section3 .col-inner.text-center p{
+	color: #2d2d2d !important;
+
+
+}
+p{
+	margin-bottom: 0;
+}
+div#section5 .col {
+    padding-bottom: 0;
+}
+@media only screen and (max-width: 1200px) and (min-width: 1000px){
+	.row-topbar .content_txt {
+	    font-size: 11px !important;
+	    margin: 0px 10px !important;
+	}
+	.header-main .nav > li > a {
+	    padding-right: 0 !important;
+	    font-size: 12px !important;
+	}
+}
+@media only screen and (min-height: 700px){
+	#section6{
+		display: none;
+	}
+}
+@media only screen and (min-height: 600px) and (max-height: 700px){
+	.footer700{
+		display: none;
+	}
+	div#section1 p{
+	    font-size: 12px !important;
+	}
+	div#section1  h3 {
+	    font-size: 13px !important;
+	}
+	div#section1 span.section-title-main  {
+	    font-size: 19px !important;
+	}
+	div#section1 .col.post-item.is-selected {
+	    padding-bottom: 0 !important;
+	}
+	 div#section3 span.section-title-main, div#section4 span.section-title-main {
+	 	font-size: 18px !important
+	 }
+	 div#section3  p , div#section4  p {
+	 	font-size: 12px !important;
+	 }
+}
+.home #footer {
+    display: none;
+}
+div#masthead ul.header-nav.header-nav-main.nav.nav-left.nav-uppercase {
+    text-align: center;
+    margin: 1px 2px;
+    transform: skew(-20deg);
+    position: relative;
+    transition: 0.3s all ease;
+    background: #169dd2;
+    display: block;
+    padding: 10px 0;
+    color: #fff;
+}
+div#masthead ul.header-nav.header-nav-main li a {
+    color:#fff;
+    transform: skew(20deg) !important;
+}
+@media only screen and (min-width: 1150px){
+    p{
+        font-size:17px !important;
+        margin-bottom: 5px;
+    }
+    .row_banner{
+        margin-top:10px;
+    }
+}
+li.header-search.header-search-dropdown ul {
+    transform: skew(20deg);
+}

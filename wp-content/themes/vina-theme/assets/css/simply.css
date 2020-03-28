@@ -1,0 +1,89 @@
+
+/*Theme Name: VinaWebsite.VN
+Description: Templates develop by vinahost.vn
+Author: VINAHOST.VN
+Template: flatsome
+Support: website@vinahost.vn
+Version: 1.0
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+/*doi tac*/
+/* Container DIV - automatically generated */
+.simply-scroll-container { 
+    position: relative;
+}
+
+/* Clip DIV - automatically generated */
+.simply-scroll-clip { 
+    position: relative;
+    overflow: hidden;
+}
+
+/* UL/OL/DIV - the element that simplyScroll is inited on
+Class name automatically added to element */
+.simply-scroll-list { 
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+    
+.simply-scroll-list li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+    
+.simply-scroll-list li img {
+    border: none;
+    display: block;
+}
+
+/* Custom class modifications - adds to / overrides above
+
+.simply-scroll is default base class */
+
+/* Container DIV */
+.simply-scroll { 
+    width: 100%!important;
+    height: 80px;
+    margin-bottom: 1em;
+}
+
+/* Clip DIV */
+.simply-scroll .simply-scroll-clip {
+    width: 100%!important;
+    height: 80px!important;
+}
+    
+/* Explicitly set height/width of each list item */ 
+.simply-scroll .simply-scroll-list li {
+    float: left; /* Horizontal scroll only */
+    width: 160px!important;
+    height: 65px!important;
+    display: block;
+    position: relative;
+    background: #fff;
+        margin-left: 20px;
+}
+.simply-scroll .simply-scroll-list li img {
+    object-fit: scale-down;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%) !important;
+    -moz-transform: translate(-50%, -50%) !important;
+    -ms-transform: translate(-50%, -50%) !important;
+    -o-transform: translate(-50%, -50%) !important;
+    transform: translate(-50%, -50%) !important;
+    max-width: 100%;
+    max-height: 100%;
+}
+.simply-scroll{
+    height: 80px!important;
+}

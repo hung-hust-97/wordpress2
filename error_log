@@ -1,0 +1,127 @@
+[26-Dec-2019 06:31:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/agneonws/public_html/wp-content/plugins/contact-form-7/modules/constant-contact.php on line 635
+[27-Dec-2019 08:57:27 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/agneonws/public_html/wp-content/themes/vina-theme/functions.php on line 157
+[10-Jan-2020 03:05:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 73
+[10-Jan-2020 03:07:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 73
+[10-Jan-2020 03:08:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 73
+[10-Jan-2020 03:09:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:10:01 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:10:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:11:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:11:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:12:01 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:12:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:12:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:12:39 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:12:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:12:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:14:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:14:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 66
+[10-Jan-2020 03:14:54 UTC] PHP Notice:  Undefined variable: offset in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 23
+[10-Jan-2020 03:14:54 UTC] PHP Notice:  Undefined property: WP_Error::$name in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 35
+[10-Jan-2020 03:14:54 UTC] PHP Notice:  Undefined property: WP_Post_Type::$term_id in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 44
+[10-Jan-2020 03:14:54 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:15:18 UTC] PHP Notice:  Undefined property: WP_Error::$name in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:15:18 UTC] PHP Notice:  Undefined variable: query in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 20
+[10-Jan-2020 03:15:18 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 20
+[10-Jan-2020 03:15:18 UTC] PHP Notice:  Undefined variable: query in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 25
+[10-Jan-2020 03:15:18 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 25
+[10-Jan-2020 03:15:18 UTC] PHP Notice:  Undefined variable: query in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 25
+[10-Jan-2020 03:15:18 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 25
+[10-Jan-2020 03:15:18 UTC] PHP Notice:  Undefined variable: query in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 33
+[10-Jan-2020 03:15:18 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 33
+[10-Jan-2020 03:15:18 UTC] PHP Notice:  Undefined variable: query in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 37
+[10-Jan-2020 03:15:18 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 37
+[10-Jan-2020 03:15:32 UTC] PHP Notice:  Undefined property: WP_Error::$name in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 23
+[10-Jan-2020 03:15:32 UTC] PHP Notice:  Undefined property: WP_Post_Type::$term_id in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 32
+[10-Jan-2020 03:15:32 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:15:57 UTC] PHP Notice:  Undefined property: WP_Error::$name in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 23
+[10-Jan-2020 03:15:57 UTC] PHP Notice:  Undefined property: WP_Post_Type::$term_id in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 32
+[10-Jan-2020 03:15:57 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:16:06 UTC] PHP Notice:  Undefined property: WP_Error::$name in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 23
+[10-Jan-2020 03:16:06 UTC] PHP Notice:  Undefined property: WP_Post_Type::$term_id in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 32
+[10-Jan-2020 03:16:06 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:16:33 UTC] PHP Notice:  Undefined property: WP_Error::$name in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 13
+[10-Jan-2020 03:16:33 UTC] PHP Notice:  Undefined property: WP_Error::$name in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 22
+[10-Jan-2020 03:16:33 UTC] PHP Notice:  Undefined property: WP_Post_Type::$term_id in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 31
+[10-Jan-2020 03:16:33 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:16:59 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:16:59 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:16:59 UTC] PHP Notice:  Undefined property: WP_Post_Type::$term_id in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 27
+[10-Jan-2020 03:16:59 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:17:29 UTC] PHP Notice:  Undefined property: WP_Post_Type::$term_id in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 15
+[10-Jan-2020 03:17:29 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:17:29 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:17:29 UTC] PHP Notice:  Undefined property: WP_Post_Type::$term_id in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 27
+[10-Jan-2020 03:17:29 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:17:39 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:17:39 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:17:39 UTC] PHP Notice:  Undefined property: WP_Post_Type::$term_id in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 27
+[10-Jan-2020 03:17:39 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:18:04 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:18:04 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:18:04 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:18:09 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:18:09 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:18:09 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:18:10 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:18:10 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:18:23 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:18:23 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 18
+[10-Jan-2020 03:18:35 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 14
+[10-Jan-2020 03:18:35 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 14
+[10-Jan-2020 03:18:35 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:18:39 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 14
+[10-Jan-2020 03:18:39 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 14
+[10-Jan-2020 03:18:41 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 14
+[10-Jan-2020 03:18:41 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 14
+[10-Jan-2020 03:19:12 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:19:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 44
+[10-Jan-2020 03:19:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 40
+[10-Jan-2020 03:19:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 44
+[10-Jan-2020 03:20:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 50
+[10-Jan-2020 03:20:45 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 50
+[10-Jan-2020 03:21:09 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:22:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 49
+[10-Jan-2020 03:22:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 44
+[10-Jan-2020 03:22:49 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 16
+[10-Jan-2020 03:22:49 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 16
+[10-Jan-2020 03:22:49 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:25:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 45
+[10-Jan-2020 03:26:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 45
+[10-Jan-2020 03:26:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 45
+[10-Jan-2020 03:26:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 45
+[10-Jan-2020 03:26:51 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 16
+[10-Jan-2020 03:26:51 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 16
+[10-Jan-2020 03:26:51 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:28:10 UTC] PHP Notice:  Undefined variable: query in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 24
+[10-Jan-2020 03:28:10 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 24
+[10-Jan-2020 03:28:10 UTC] PHP Notice:  Undefined variable: query in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 29
+[10-Jan-2020 03:28:10 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 29
+[10-Jan-2020 03:28:10 UTC] PHP Notice:  Undefined variable: query in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 29
+[10-Jan-2020 03:28:10 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 29
+[10-Jan-2020 03:28:10 UTC] PHP Notice:  Undefined variable: query in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 37
+[10-Jan-2020 03:28:10 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 37
+[10-Jan-2020 03:28:10 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 61
+[10-Jan-2020 03:28:10 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 61
+[10-Jan-2020 03:28:42 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:28:42 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:28:42 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:29:00 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:29:00 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:29:00 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:29:31 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:29:31 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:29:31 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:29:42 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:29:42 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:29:42 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:30:10 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:30:10 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:30:10 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:30:27 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:30:27 UTC] PHP Notice:  Undefined variable: category in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:30:27 UTC] PHP Notice:  Trying to get property of non-object in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 62
+[10-Jan-2020 03:30:41 UTC] PHP Notice:  Undefined property: WP_Error::$name in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 69
+[10-Jan-2020 03:30:45 UTC] PHP Notice:  Undefined variable: post_tag_options in /home/agneonws/public_html/wp-content/themes/vina-theme/productf.php on line 173
+[10-Jan-2020 03:30:45 UTC] PHP Notice:  Undefined property: WP_Error::$name in /home/agneonws/public_html/wp-content/themes/vina-theme/template-parts/posts/archive-list.php on line 69
+[19-Jan-2020 04:33:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=2685895 in /home/agneonws/public_html/wp-includes/wp-db.php on line 2030
